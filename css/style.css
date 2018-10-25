@@ -70,6 +70,7 @@ figcaption {
 #details a:active {
   color: red;
 }
+<<<<<<< HEAD
 /* MEDIA */
 img, video, audio {
   max-width: 100%
@@ -84,6 +85,14 @@ img, video, audio {
   width: 960px;
   margin: 0 auto;
 
+=======
+
+/* LAYOUT */
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  background: #eee;
+>>>>>>> 585a12e9f6a4d2c6c5f5522d1c00d97a139e9325
 }
 
 .col-1 {
@@ -114,6 +123,7 @@ img, video, audio {
 
 .first {
   margin: 0%;
+<<<<<<< HEAD
 }
 
 /* Section */
@@ -144,4 +154,6 @@ section {
   width: 40px;
   height: 40px;
   background: yellow;
+=======
+>>>>>>> 585a12e9f6a4d2c6c5f5522d1c00d97a139e9325
 }
